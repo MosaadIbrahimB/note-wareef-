@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060942941845",
+    "project_id": "notes-20e21",
+    "storage_bucket": "notes-20e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060942941845:android:9eef4934fb657b4da1959c",
+        "android_client_info": {
+          "package_name": "com.mosaad.not"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06jqqdeH11vr2YA4ytwc3XkvJ_Wezk_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
